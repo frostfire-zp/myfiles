@@ -1,0 +1,22 @@
+# 1. Essential for Pelican building
+markdown
+pelican
+typogrify
+
+# 2. Optional but helpful libraries
+beautifulsoup4
+pygments
+tree
+pylint
+
+# 3. Jupyter Notebook and supporting libraries
+jupyter
+pyyaml
+ghp-import
+matplotlib
+
+# 4. Web Application with database support
+# flask
+# sqlalchemy
+# pymongo
+# mysql-connector-python
